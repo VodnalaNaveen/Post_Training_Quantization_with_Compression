@@ -21,6 +21,4 @@ python .\run.py --weights_path "C:\Users\vodna\OneDrive\Desktop\QUANTIZATION\Eli
 #### Parser Arguments
 
  * --weights_path	         :-	Path of your original .h5 model
- * --data_path	            :-	Path to input CSV file (default: ./data.csv)
- * --num_preds	            :-	Number of predictions to make
  * --compressed_model_path	:-	Folder path to save compressed model
